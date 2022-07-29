@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adelinapereteatcu
-- 👩‍💻 I am a Junior Software Developer
+- 👩‍💻 I am a Software Developer
 - 👀 I’m interested in JavaScript and React framework
 
 <!---
