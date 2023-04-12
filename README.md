@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adelinapereteatcu
-- 👩‍💻 I am a Software Developer
+- 🌈 I am a Frontend Engineer and I like beautiful UI and intuitive UX
 - 👀 I’m interested in JavaScript and React framework
 
 <!---
